@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(3, 54, 63);
+}
+div{
+    background-color: white;
+}
+h1{
+    color: white;
+    background: #017d92;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+p,ol,ul,li{
+    color: rgb(3, 3, 89);
+}
+h2{
+    color: #e85f0a;
+    }
+    span{
+        float:inline-start;
+        font-family: 'Franklink Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 300%;
+        color: rgb(3, 3, 89);
+    }
